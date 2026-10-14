@@ -1,0 +1,852 @@
+{
+  "source": "Fitnova_Chatbot_Knowledge_Base.pdf",
+  "entries": [
+    {
+      "id": 1,
+      "category": "account",
+      "question": "What is Fitnova?",
+      "answer": "Fitnova is a wellness tracking website. You can track workouts, calories, protein, water, sleep, mood and stress, use calculators, follow a workout library, shop healthy products and chat with the AI coach Nova. It is not a medical service.",
+      "needsSupport": false
+    },
+    {
+      "id": 2,
+      "category": "account",
+      "question": "Is Fitnova free?",
+      "answer": "Yes, there is a Free plan with core tracking. A Premium plan unlocks extra features. Open the Pricing page to compare them.",
+      "needsSupport": false
+    },
+    {
+      "id": 3,
+      "category": "account",
+      "question": "How do I sign up?",
+      "answer": "Tap Sign Up on the Home page, enter your details and create a password. Then you land on your Dashboard.",
+      "needsSupport": false
+    },
+    {
+      "id": 4,
+      "category": "account",
+      "question": "How do I log in?",
+      "answer": "Tap Login, enter your email and password, then tap Login. You will go straight to your Dashboard.",
+      "needsSupport": false
+    },
+    {
+      "id": 5,
+      "category": "account",
+      "question": "I forgot my password. On the Login page tap Forgot password, enter your email and follow the reset link we send you. Check your spam folder if it does not arrive in a few minutes. I can never see or ask for your password.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 6,
+      "category": "account",
+      "question": "The login or sign-up is not working. Check your email spelling and internet connection, then try again. If the problem continues, refresh the page or try another browser. Still stuck?",
+      "answer": "Tap Contact Support and I will pass it on.",
+      "needsSupport": false
+    },
+    {
+      "id": 7,
+      "category": "account",
+      "question": "How do I log out?",
+      "answer": "Open the menu, then tap Logout.",
+      "needsSupport": false
+    },
+    {
+      "id": 8,
+      "category": "account",
+      "question": "How do I switch between light and dark mode?",
+      "answer": "Use the sun/moon toggle in the top bar. Your choice is remembered on that device.",
+      "needsSupport": false
+    },
+    {
+      "id": 9,
+      "category": "account",
+      "question": "Can I use Fitnova on my phone?",
+      "answer": "Yes. The site is mobile-friendly and works in any modern phone browser.",
+      "needsSupport": false
+    },
+    {
+      "id": 10,
+      "category": "account",
+      "question": "Can I delete my account?",
+      "answer": "Yes. Open Settings, then Account, then Delete account. This removes your tracking data. If you cannot find the option, contact support.",
+      "needsSupport": false
+    },
+    {
+      "id": 11,
+      "category": "dashboard",
+      "question": "What do I see on the Dashboard?",
+      "answer": "Today's workout, calories, protein, water, sleep, mood and your streak, all in one place.",
+      "needsSupport": false
+    },
+    {
+      "id": 12,
+      "category": "dashboard",
+      "question": "Why does my Dashboard show sample data?",
+      "answer": "New accounts show clearly labeled SAMPLE data so you can see how things look. As soon as you log your own entries, the sample data is replaced with yours.",
+      "needsSupport": false
+    },
+    {
+      "id": 13,
+      "category": "dashboard",
+      "question": "How do I remove the sample data?",
+      "answer": "Log your first real entry in any tracker. The sample label disappears for that item. Anything still labeled Sample is not your data.",
+      "needsSupport": false
+    },
+    {
+      "id": 14,
+      "category": "dashboard",
+      "question": "How is my streak counted?",
+      "answer": "Your streak increases for each day in a row that you log at least one activity (such as a workout, meal or water entry). Missing a day resets it to zero.",
+      "needsSupport": false
+    },
+    {
+      "id": 15,
+      "category": "dashboard",
+      "question": "My streak reset. Why?",
+      "answer": "A full day passed without any logged activity. Check that your entries were saved. Entries made after midnight count for the new day.",
+      "needsSupport": false
+    },
+    {
+      "id": 16,
+      "category": "dashboard",
+      "question": "How do I change my daily goals?",
+      "answer": "Open Settings, then Goals, and edit calories, protein, water and sleep targets.",
+      "needsSupport": false
+    },
+    {
+      "id": 17,
+      "category": "dashboard",
+      "question": "My numbers look wrong. Check the date on your entries and that the right units are selected (kg or lb, ml or oz). If it still looks wrong, tell me which card and I will help you find the cause.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 18,
+      "category": "calculators",
+      "question": "How does the BMI calculator work?",
+      "answer": "BMI = weight in kg divided by height in metres squared. Enter your height and weight and the result appears with a general category: under 18.5 underweight, 18.5 to 24.9 healthy range, 25 to 29.9 overweight, 30 and above obese. This is a screening number only.",
+      "needsSupport": false
+    },
+    {
+      "id": 19,
+      "category": "calculators",
+      "question": "Is BMI accurate?",
+      "answer": "BMI is a rough guide. It does not measure body fat or muscle, so athletes and muscular people can score high while being healthy. It is not a diagnosis. A doctor can give you a proper assessment.",
+      "needsSupport": false
+    },
+    {
+      "id": 20,
+      "category": "calculators",
+      "question": "How does the calorie calculator work?",
+      "answer": "It estimates your daily energy needs using the Mifflin-St Jeor equation, then multiplies by your activity level (sedentary 1.2, light 1.375, moderate 1.55, very active 1.725, extra active 1.9). It then adjusts for your goal: lose, maintain or gain.",
+      "needsSupport": false
+    },
+    {
+      "id": 21,
+      "category": "calculators",
+      "question": "What do I enter in the calorie calculator?",
+      "answer": "Age, gender, height, weight, activity level and goal.",
+      "needsSupport": false
+    },
+    {
+      "id": 22,
+      "category": "calculators",
+      "question": "Why is my calorie result different from another app?",
+      "answer": "Different apps use different formulas and activity multipliers. Treat the result as a starting point and adjust based on how your body responds over 2 to 3 weeks.",
+      "needsSupport": false
+    },
+    {
+      "id": 23,
+      "category": "calculators",
+      "question": "How does the protein calculator work?",
+      "answer": "It multiplies your body weight by a protein factor based on your activity and goal. More active people and those building muscle use a higher factor. The result is a daily gram target, not a prescription.",
+      "needsSupport": false
+    },
+    {
+      "id": 24,
+      "category": "calculators",
+      "question": "Can I save my calculator results?",
+      "answer": "Yes. Tap Save as my goal to use the result on your Dashboard and trackers.",
+      "needsSupport": false
+    },
+    {
+      "id": 25,
+      "category": "calculators",
+      "question": "The calculator says my calories are very low. Is that safe?",
+      "answer": "Very low targets are not recommended. Fitnova will not suggest extreme deficits. If you want to lose weight, please speak to a doctor or registered dietitian, especially if you have a health condition.",
+      "needsSupport": false
+    },
+    {
+      "id": 26,
+      "category": "calculators",
+      "question": "Can I use these calculators if I am pregnant or under 18?",
+      "answer": "These tools are not designed for pregnancy or for children and teens. Please ask your doctor for personalised guidance.",
+      "needsSupport": false
+    },
+    {
+      "id": 27,
+      "category": "workouts",
+      "question": "What levels are in the workout library?",
+      "answer": "Beginner, Moderate and Advanced. Each level has workouts with YouTube video links.",
+      "needsSupport": false
+    },
+    {
+      "id": 28,
+      "category": "workouts",
+      "question": "How do I pick my level?",
+      "answer": "If you are new or returning after a break, start with Beginner. If you train 2 to 3 times a week, try Moderate. Choose Advanced only with consistent training experience. You can ask Nova to recommend a level.",
+      "needsSupport": false
+    },
+    {
+      "id": 29,
+      "category": "workouts",
+      "question": "How do I watch a workout?",
+      "answer": "Open a workout and tap Watch. The video opens through YouTube.",
+      "needsSupport": false
+    },
+    {
+      "id": 30,
+      "category": "workouts",
+      "question": "The video will not play. Check your internet connection and refresh. Some videos may be removed or restricted by the uploader. If a link is broken, tap Report a bug and tell me which workout it is.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 31,
+      "category": "workouts",
+      "question": "Are the videos made by Fitnova?",
+      "answer": "The videos are hosted on YouTube and linked from our library. We do not copy or re-host them.",
+      "needsSupport": false
+    },
+    {
+      "id": 32,
+      "category": "workouts",
+      "question": "Do I need equipment?",
+      "answer": "Each workout page lists what it needs. Beginner workouts focus on bodyweight and light equipment.",
+      "needsSupport": false
+    },
+    {
+      "id": 33,
+      "category": "workouts",
+      "question": "How long are the workouts?",
+      "answer": "Duration is shown on each workout card. Choose one that fits your day.",
+      "needsSupport": false
+    },
+    {
+      "id": 34,
+      "category": "workouts",
+      "question": "I have an injury. Which workout should I do?",
+      "answer": "I cannot recommend workouts for injuries. Please check with a doctor or physiotherapist first. If you feel pain, dizziness or chest discomfort during exercise, stop and seek medical help.",
+      "needsSupport": false
+    },
+    {
+      "id": 35,
+      "category": "workouts",
+      "question": "How do I add a workout to my day?",
+      "answer": "Open the workout and tap Add to schedule. Pick a date and time. It will appear in your Scheduler and on your Dashboard.",
+      "needsSupport": false
+    },
+    {
+      "id": 36,
+      "category": "schedule",
+      "question": "How do I schedule a workout?",
+      "answer": "Open Scheduler, tap a date on the calendar, tap Add workout, choose a workout and save.",
+      "needsSupport": false
+    },
+    {
+      "id": 37,
+      "category": "schedule",
+      "question": "Can I edit or delete a scheduled workout?",
+      "answer": "Yes. Tap the workout on the calendar, then Edit or Delete.",
+      "needsSupport": false
+    },
+    {
+      "id": 38,
+      "category": "schedule",
+      "question": "How do I mark a workout as done?",
+      "answer": "Tap the workout and tap Complete. It counts toward your streak.",
+      "needsSupport": false
+    },
+    {
+      "id": 39,
+      "category": "schedule",
+      "question": "Will I get reminders?",
+      "answer": "If reminders are available on your plan and enabled in Settings, you will be reminded. Check Settings, then Notifications.",
+      "needsSupport": false
+    },
+    {
+      "id": 40,
+      "category": "schedule",
+      "question": "Today's workout on my Dashboard is empty. Nothing is scheduled for today. Open the Scheduler or Workout library and add one.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 41,
+      "category": "schedule",
+      "question": "Can I repeat a workout weekly?",
+      "answer": "Yes. When adding a workout choose Repeat and pick the days.",
+      "needsSupport": false
+    },
+    {
+      "id": 42,
+      "category": "nutrition",
+      "question": "How do I log food?",
+      "answer": "Open Food Log, tap Add meal, search for a food or enter calories and protein manually, then save. It updates your daily totals.",
+      "needsSupport": false
+    },
+    {
+      "id": 43,
+      "category": "nutrition",
+      "question": "How do I log water?",
+      "answer": "On the Dashboard or in the Food Log tap the water card and add a glass or an amount.",
+      "needsSupport": false
+    },
+    {
+      "id": 44,
+      "category": "nutrition",
+      "question": "How do I log my weight?",
+      "answer": "Open Weight Tracker, tap Add entry, enter weight and date, then save.",
+      "needsSupport": false
+    },
+    {
+      "id": 45,
+      "category": "nutrition",
+      "question": "How often should I weigh myself?",
+      "answer": "Many people check once a week at the same time of day, because daily weight naturally fluctuates. Do what feels healthy for you. If weighing causes stress, skip it.",
+      "needsSupport": false
+    },
+    {
+      "id": 46,
+      "category": "nutrition",
+      "question": "How do I read the charts?",
+      "answer": "The line chart shows your trend over time. Look at the overall direction, not single days. Use the 7 day, 30 day and 90 day buttons to change the range.",
+      "needsSupport": false
+    },
+    {
+      "id": 47,
+      "category": "nutrition",
+      "question": "Can I edit or delete a food entry?",
+      "answer": "Yes. Tap the entry, then Edit or Delete.",
+      "needsSupport": false
+    },
+    {
+      "id": 48,
+      "category": "nutrition",
+      "question": "The food I ate is not in the list. Add it manually with approximate calories and protein, or save it as a custom food for next time.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 49,
+      "category": "nutrition",
+      "question": "Are the calories in the food database exact?",
+      "answer": "They are estimates and vary by brand, recipe and portion size. Use them as a guide.",
+      "needsSupport": false
+    },
+    {
+      "id": 50,
+      "category": "nutrition",
+      "question": "Can I export my data?",
+      "answer": "If export is available on your plan, open Settings, then Data, then Export. Otherwise contact support.",
+      "needsSupport": false
+    },
+    {
+      "id": 51,
+      "category": "trackers",
+      "question": "How do I log sleep?",
+      "answer": "Open Sleep, tap Add entry, enter bedtime and wake-up time, and save. Hours are calculated for you.",
+      "needsSupport": false
+    },
+    {
+      "id": 52,
+      "category": "trackers",
+      "question": "How many hours of sleep do I need?",
+      "answer": "Most adults do well with 7 to 9 hours. Needs vary, so use this as a general guide.",
+      "needsSupport": false
+    },
+    {
+      "id": 53,
+      "category": "trackers",
+      "question": "How do I log my mood?",
+      "answer": "Open Mood and pick the option that matches how you feel, with an optional note. You can log more than once a day.",
+      "needsSupport": false
+    },
+    {
+      "id": 54,
+      "category": "trackers",
+      "question": "How do I log stress?",
+      "answer": "Open Stress and rate your stress level for the day. Add a note about what triggered it if you want.",
+      "needsSupport": false
+    },
+    {
+      "id": 55,
+      "category": "trackers",
+      "question": "Can Fitnova diagnose depression, anxiety or sleep problems?",
+      "answer": "No. These trackers help you notice patterns, they do not diagnose anything. If you feel low, anxious or hopeless for a while, please talk to a doctor, therapist or someone you trust.",
+      "needsSupport": false
+    },
+    {
+      "id": 56,
+      "category": "trackers",
+      "question": "I feel very down and want to hurt myself. I am really sorry you are feeling this way. You deserve support right now. Please contact local emergency services or a crisis helpline in your country, or reach out to someone you trust. If you want, I can help you find a helpline. (Bot rule: respond with care, never end the chat, never give advice beyond encouraging real support.)",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 57,
+      "category": "trackers",
+      "question": "Can I see patterns between sleep and mood?",
+      "answer": "Yes. The insights section shows how your sleep, mood and stress move together over time.",
+      "needsSupport": false
+    },
+    {
+      "id": 58,
+      "category": "pcod",
+      "question": "What is the PCOD tracker?",
+      "answer": "A private tool to log your cycle, symptoms and notes so you can spot patterns and share them with your doctor. It does not diagnose PCOD or PCOS.",
+      "needsSupport": false
+    },
+    {
+      "id": 59,
+      "category": "pcod",
+      "question": "What can I track?",
+      "answer": "Period start and end dates, cycle length, flow, symptoms such as cramps or acne, mood and notes.",
+      "needsSupport": false
+    },
+    {
+      "id": 60,
+      "category": "pcod",
+      "question": "How do I log my period?",
+      "answer": "Open PCOD Tracker, tap the date and choose Period started or Period ended.",
+      "needsSupport": false
+    },
+    {
+      "id": 61,
+      "category": "pcod",
+      "question": "Can this tell me if I have PCOD or PCOS?",
+      "answer": "No. Only a doctor can diagnose it, using exams and tests. If your cycles are very irregular or you have symptoms that worry you, please see a gynecologist.",
+      "needsSupport": false
+    },
+    {
+      "id": 62,
+      "category": "pcod",
+      "question": "Can you tell me what to eat or which medicine to take for PCOD?",
+      "answer": "I cannot give medical or medication advice. Healthy habits like regular activity, balanced meals and good sleep are commonly encouraged, but please follow your doctor's plan. Nova can share general wellness ideas.",
+      "needsSupport": false
+    },
+    {
+      "id": 63,
+      "category": "pcod",
+      "question": "Is my period data private?",
+      "answer": "Yes. Your health data is tied to your account and not shown to other users.",
+      "needsSupport": false
+    },
+    {
+      "id": 64,
+      "category": "pcod",
+      "question": "Is the PCOD tracker free?",
+      "answer": "Availability depends on your plan. Check the Pricing page.",
+      "needsSupport": false
+    },
+    {
+      "id": 65,
+      "category": "store",
+      "question": "What can I buy in the store?",
+      "answer": "Healthy products such as snacks and supplements. Each product shows pictures, price and nutrition info.",
+      "needsSupport": false
+    },
+    {
+      "id": 66,
+      "category": "store",
+      "question": "Where do I find nutrition information?",
+      "answer": "Open any product page and scroll to the Nutrition section.",
+      "needsSupport": false
+    },
+    {
+      "id": 67,
+      "category": "store",
+      "question": "How do I add a product to my cart?",
+      "answer": "Open the product and tap Add to cart. Change quantities in the cart.",
+      "needsSupport": false
+    },
+    {
+      "id": 68,
+      "category": "store",
+      "question": "Are the products medicines?",
+      "answer": "No. Products are wellness items and are not a replacement for medical treatment.",
+      "needsSupport": false
+    },
+    {
+      "id": 69,
+      "category": "store",
+      "question": "Is this product good for me?",
+      "answer": "I can share what is on the label, but I cannot tell you whether a product suits your health. If you have allergies, a condition or take medicines, check with your doctor first.",
+      "needsSupport": false
+    },
+    {
+      "id": 70,
+      "category": "store",
+      "question": "Is a product out of stock?",
+      "answer": "Out-of-stock items are marked on the product page. Check back later or contact support.",
+      "needsSupport": false
+    },
+    {
+      "id": 71,
+      "category": "store",
+      "question": "Do you have a return or refund policy?",
+      "answer": "[FILL IN: your return and refund policy]. If the policy is not yet set, say: I do not have that detail. Please contact support.",
+      "needsSupport": true
+    },
+    {
+      "id": 72,
+      "category": "store",
+      "question": "How long does delivery take?",
+      "answer": "[FILL IN: delivery time and areas]. If not set, say: I do not have that detail. Please contact support.",
+      "needsSupport": true
+    },
+    {
+      "id": 73,
+      "category": "checkout",
+      "question": "How do I place an order?",
+      "answer": "Add items to your cart, tap Buy Now or Order Now, and review your order summary. Then pay by scanning the UPI QR code and confirm your order on WhatsApp.",
+      "needsSupport": false
+    },
+    {
+      "id": 74,
+      "category": "checkout",
+      "question": "What do I see on the confirmation page?",
+      "answer": "Your order summary with items, quantities and total price, plus a UPI QR code to pay.",
+      "needsSupport": false
+    },
+    {
+      "id": 75,
+      "category": "checkout",
+      "question": "How do I pay?",
+      "answer": "Scan the QR code with any UPI app (such as Google Pay, PhonePe or Paytm) and pay the exact total shown. The QR is created with your cart total.",
+      "needsSupport": false
+    },
+    {
+      "id": 76,
+      "category": "checkout",
+      "question": "The QR code shows the wrong amount. Go back, check your cart quantities and reopen the confirmation page so the total is recalculated. If it is still wrong, do not pay and contact support.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 77,
+      "category": "checkout",
+      "question": "I paid. What now?",
+      "answer": "Tap Confirm Order on WhatsApp. It opens a WhatsApp chat with your order details already written. Send the message to confirm your order.",
+      "needsSupport": false
+    },
+    {
+      "id": 78,
+      "category": "checkout",
+      "question": "What does the WhatsApp message contain?",
+      "answer": "Your items, quantities and total in a neat list. You can add your name before sending.",
+      "needsSupport": false
+    },
+    {
+      "id": 79,
+      "category": "checkout",
+      "question": "WhatsApp did not open. Make sure WhatsApp is installed, or use WhatsApp Web. Try tapping the button again or allow pop-ups for this site.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 80,
+      "category": "checkout",
+      "question": "I paid but my order is not confirmed. Your order is confirmed once you send the WhatsApp message. If you already did and have not heard back, contact support with your payment screenshot and UPI transaction ID.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 81,
+      "category": "checkout",
+      "question": "I paid twice by mistake. Please contact support with both payment screenshots and transaction IDs so it can be checked.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 82,
+      "category": "checkout",
+      "question": "Can I cancel or change an order?",
+      "answer": "Message us on WhatsApp as early as possible with your order details. [FILL IN: cancellation rules].",
+      "needsSupport": true
+    },
+    {
+      "id": 83,
+      "category": "checkout",
+      "question": "Is it safe to pay by UPI here?",
+      "answer": "UPI payments happen in your own UPI app. Fitnova never sees your UPI PIN, and I will never ask for it, your OTP or card details.",
+      "needsSupport": false
+    },
+    {
+      "id": 84,
+      "category": "checkout",
+      "question": "Do I need an account to order?",
+      "answer": "[FILL IN: yes or no, depending on how you set it up].",
+      "needsSupport": true
+    },
+    {
+      "id": 85,
+      "category": "pricing",
+      "question": "What plans are there?",
+      "answer": "Free and Premium. Open the Pricing page for the full comparison.",
+      "needsSupport": false
+    },
+    {
+      "id": 86,
+      "category": "pricing",
+      "question": "What do I get on the Free plan?",
+      "answer": "[FILL IN: list of free features]. Typically core trackers, calculators and the basic workout library.",
+      "needsSupport": true
+    },
+    {
+      "id": 87,
+      "category": "pricing",
+      "question": "What do I get with Premium?",
+      "answer": "[FILL IN: list of premium features and price].",
+      "needsSupport": true
+    },
+    {
+      "id": 88,
+      "category": "pricing",
+      "question": "How do I upgrade to Premium?",
+      "answer": "Open Pricing, choose Premium and follow the steps.",
+      "needsSupport": false
+    },
+    {
+      "id": 89,
+      "category": "pricing",
+      "question": "How do I cancel Premium?",
+      "answer": "Open Settings, then Plan, then Cancel Premium. [FILL IN: billing and refund details].",
+      "needsSupport": true
+    },
+    {
+      "id": 90,
+      "category": "pricing",
+      "question": "Is there a free trial?",
+      "answer": "[FILL IN: yes or no]. If unknown say: I do not have that detail. Please check the Pricing page.",
+      "needsSupport": true
+    },
+    {
+      "id": 91,
+      "category": "coach",
+      "question": "Who is Nova?",
+      "answer": "Nova is the AI coach inside Fitnova. Ask Nova for general workout ideas, meal ideas, habit tips and motivation.",
+      "needsSupport": false
+    },
+    {
+      "id": 92,
+      "category": "coach",
+      "question": "What is the difference between Nova and this assistant?",
+      "answer": "Nova helps with fitness and wellness ideas. I help you use the website, such as logging, orders and account issues.",
+      "needsSupport": false
+    },
+    {
+      "id": 93,
+      "category": "coach",
+      "question": "Can Nova create a workout plan?",
+      "answer": "Yes, a general plan based on your level and goal. It is not a personal medical or training prescription.",
+      "needsSupport": false
+    },
+    {
+      "id": 94,
+      "category": "coach",
+      "question": "Can Nova create a diet plan?",
+      "answer": "Nova can suggest general meal ideas and portion guidance. It is not medical or dietitian advice. If you have a health condition, please see a professional.",
+      "needsSupport": false
+    },
+    {
+      "id": 95,
+      "category": "coach",
+      "question": "Is Nova a real person or a doctor?",
+      "answer": "No. Nova is an AI and can make mistakes. It is not a doctor or certified trainer.",
+      "needsSupport": false
+    },
+    {
+      "id": 96,
+      "category": "coach",
+      "question": "Nova gave me advice that does not feel right. Trust your body and your doctor first. Please tell us using the thumbs-down button so we can improve.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 97,
+      "category": "coach",
+      "question": "Can Nova see my data?",
+      "answer": "Nova may use the data you have logged to personalise tips. [FILL IN: confirm what data Nova can access].",
+      "needsSupport": true
+    },
+    {
+      "id": 98,
+      "category": "privacy",
+      "question": "Is Fitnova medical advice?",
+      "answer": "No. Fitnova tools are for wellness tracking only and are not medical advice, diagnosis or treatment. Always speak to a qualified professional about health decisions.",
+      "needsSupport": false
+    },
+    {
+      "id": 99,
+      "category": "privacy",
+      "question": "What does Sample data mean?",
+      "answer": "Sample data is made-up demonstration data, always labeled as Sample. It is not real and not about you.",
+      "needsSupport": false
+    },
+    {
+      "id": 100,
+      "category": "privacy",
+      "question": "Who can see my data?",
+      "answer": "Your tracking data is private to your account. [FILL IN: confirm your privacy policy].",
+      "needsSupport": true
+    },
+    {
+      "id": 101,
+      "category": "privacy",
+      "question": "Do you ask for my password, OTP or card details?",
+      "answer": "Never. Anyone asking for these in Fitnova's name is not us.",
+      "needsSupport": false
+    },
+    {
+      "id": 102,
+      "category": "privacy",
+      "question": "Where is my data stored?",
+      "answer": "Account and tracking data is stored securely using Supabase. [FILL IN: confirm region and policy link].",
+      "needsSupport": true
+    },
+    {
+      "id": 103,
+      "category": "privacy",
+      "question": "Can I download or delete my data?",
+      "answer": "You can delete your account in Settings. For export or data requests, contact support.",
+      "needsSupport": false
+    },
+    {
+      "id": 104,
+      "category": "support",
+      "question": "The page is not loading. Check your internet connection, refresh the page, or try another browser. If it still fails, tell me which page and I will log it for support.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 105,
+      "category": "support",
+      "question": "My data is not saving. Make sure you are logged in and online, then try again. If it still fails, refresh and check whether the entry appears. Contact support if it does not.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 106,
+      "category": "support",
+      "question": "Charts are empty. Charts need at least one or two entries. Log some data and check again, and make sure the date range matches your entries.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 107,
+      "category": "support",
+      "question": "The site looks broken on my phone. Refresh the page and clear your browser cache. Try updating your browser. Tell me your phone and browser if it continues.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 108,
+      "category": "support",
+      "question": "Dark mode text is hard to read. Please tell me which page and I will report it. You can switch to light mode with the top bar toggle.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 109,
+      "category": "support",
+      "question": "How do I report a bug?",
+      "answer": "Tap Report a bug, describe what happened, and add a screenshot if you can. You will get a ticket number.",
+      "needsSupport": false
+    },
+    {
+      "id": 110,
+      "category": "support",
+      "question": "User asks something unrelated (for example, cricket scores). I can only help with Fitnova. Is something on the website giving you trouble?",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 111,
+      "category": "support",
+      "question": "User asks for a diagnosis (for example, do I have PCOD, diabetes or thyroid issues?). I cannot diagnose conditions. A doctor can help with that. I can help you log your symptoms so you can share them.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 112,
+      "category": "support",
+      "question": "User asks for medication or supplement doses. I cannot advise on medicines or doses. Please ask a doctor or pharmacist.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 113,
+      "category": "support",
+      "question": "User shares very low weight or talks about starving or purging. Respond with care. Do not give calorie or weight targets. Encourage speaking with a doctor or a trusted person, and offer support resources.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 114,
+      "category": "support",
+      "question": "User expresses thoughts of self-harm. Respond with warmth, encourage immediate real-world support (emergency services or a crisis line), and never end the conversation.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 115,
+      "category": "support",
+      "question": "User asks for human help. Show the Contact Support form (issue type, description, optional screenshot) and create a ticket such as SUPPORT-1042.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 116,
+      "category": "support",
+      "question": "Bot is unsure of an answer. I am not sure about that, and I do not want to guess. Let me connect you with our team. Then show Contact Support.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 117,
+      "category": "support",
+      "question": "User is rude or frustrated. Stay calm, apologise for the trouble, and offer a fix or human support.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 118,
+      "category": "support",
+      "question": "Welcome message Hi! I am the Fitnova Assistant. Ask me anything about using the website. Fitnova is for wellness tracking, not medical advice.",
+      "answer": "",
+      "needsSupport": false
+    },
+    {
+      "id": 119,
+      "category": "support",
+      "question": "Suggested chips",
+      "answer": "Login help | How calculators work | Find a workout | Log food or water | Place an order | Pricing and plans | Talk to Nova | Report a bug | Contact support",
+      "needsSupport": false
+    },
+    {
+      "id": 120,
+      "category": "support",
+      "question": "Fallback reply",
+      "answer": "I did not quite get that. Can you tell me which page you are on and what is going wrong?",
+      "needsSupport": false
+    },
+    {
+      "id": 121,
+      "category": "support",
+      "question": "Thumbs-down follow-up",
+      "answer": "Sorry about that. What went wrong? Wrong answer, not helpful, or unclear? You can also add a comment.",
+      "needsSupport": false
+    }
+  ]
+}
